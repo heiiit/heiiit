@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @heiiit
-- 🌱 I’m currently learning c# and JavaScript
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me naguevara@unal.edu.co
